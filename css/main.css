@@ -54,5 +54,7 @@ max-width: 6em;
 }
 
 .stuff p {
-
+  font-family: Roboto, sans-serif;
+  font-size: 1.5rem;
+  margin: 1rem 0;
 }
