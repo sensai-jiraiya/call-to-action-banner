@@ -49,5 +49,6 @@ max-width: 6em;
 }
 
 .mecha {
-
+  position: relative;
+  width: 35%;
 }
