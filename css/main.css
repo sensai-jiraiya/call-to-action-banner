@@ -27,7 +27,7 @@ body {
   justify-content: space-between;
   padding: 0 1rem;
   left: 50%;
-  top: 50%;
+  top: 48%;
 }
 
 .img-flex {
@@ -38,6 +38,7 @@ body {
 .stuff {
   z-index: 100;
   width: 60%;
+  margin-top: 0;
 }
 
 .stuff h2 {
@@ -46,6 +47,8 @@ body {
   font-size: 3rem;
   line-height: 1.2;
   max-width: 6em;
+  margin-top: .3em;
+  margin-bottom: 0;
 }
 
 .mecha {
@@ -56,7 +59,7 @@ body {
 .stuff p {
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
-  margin: 1rem 0;
+  margin: 1rem 0 0;
 }
 
 .btn {
@@ -68,6 +71,7 @@ body {
   border-radius: 8px;
   background-color: #333;
   padding: .5em .9em;
+  margin-top: .6em;
 }
 
 .btn-big {
