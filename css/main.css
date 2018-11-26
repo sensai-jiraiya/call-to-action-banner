@@ -67,8 +67,7 @@ max-width: 6em;
   border-width: 3px;
   border-radius: 8px;
   background-color: #333;
-
-
+  padding: .5em .9em;
 }
 
 .btn-big {
