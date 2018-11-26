@@ -34,3 +34,10 @@ body {
   display: block;
   width: 100%;
 }
+
+.stuff {
+  z-index: 100;
+  width: 60%;
+}
+
+.stuff h2
