@@ -58,3 +58,20 @@ max-width: 6em;
   font-size: 1.5rem;
   margin: 1rem 0;
 }
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  border-width: 3px;
+  border-radius: 8px;
+  background-color: #333;
+
+
+}
+
+.btn-big {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
